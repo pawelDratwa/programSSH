@@ -1,0 +1,14 @@
+[
+  {
+    "text": "ls"
+  },
+  {
+    "text": "pwd"
+  },
+  {
+    "text": "ps -aux"
+  },
+  {
+    "text": "ls -la"
+  }
+]
